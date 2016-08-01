@@ -1,0 +1,617 @@
+{
+  "nickname": "Madonna",
+  "name": "Madonna Louise Veronica",
+  "surname": "Ciccone",
+  "place_of_birth": "Bay City",
+  "date_of_birth": "16.08.1958",
+  "genre": "pop",
+  "bio": "Madonna Louise Ciccone is an American singer, songwriter, dancer, actress, and businesswoman. She achieved popularity by pushing the boundaries of lyrical content in mainstream popular music and imagery in her music videos, which became a fixture on MTV. Madonna is known for reinventing both her music and image, and for maintaining her autonomy within the recording industry. Music critics have acclaimed her musical productions, which have generated some controversy. Referred to as the \"Queen of Pop\", Madonna is often cited as an influence by other artists. \nBorn in Bay City, Michigan, Madonna moved to New York City in 1977 to pursue a career in modern dance. After performing in the music groups Breakfast Club and Emmy, she signed with Sire Records (an auxiliary label of Warner Bros. Records) in 1982 and released her self-titled debut album the following year. She followed it with a series of commercially and critically successful albums, including the Grammy Award winners Ray of Light (1998) and Confessions on a Dance Floor (2005). Throughout her career, Madonna has written and produced most of her songs, with many of them reaching number one on the record charts, including \"Like a Virgin\", \"Papa Don\'t Preach\", \"Like a Prayer\", \"Vogue\", \"Take a Bow\", \"Frozen\", \"Music\", \"Hung Up\", and \"4 Minutes\".\n Madonna\'s popularity was further enhanced by her film roles, including Desperately Seeking Susan (1985), Dick Tracy (1990), and Evita (1996); the latter earned her a Golden Globe Award for Best Actress. However, most of her other films have been panned by critics. Her other ventures include fashion design, writing children\'s books, and filmmaking. She has been acclaimed as a businesswoman, particularly after she founded entertainment company Maverick (including the label Maverick Records). In 2007 she signed an unprecedented US $120 million 360 deal with Live Nation, which led to a record deal with Interscope Records.Having sold more than 300 million records worldwide, Madonna is recognized as the best-selling female recording artist of all time by Guinness World Records. The Recording Industry Association of America (RIAA) listed her as the best-selling female rock artist of the 20th century and the second highest-certified female artist in the United States, with 64.5 million album units. Madonna is the highest-grossing solo touring artist of all time, earning US $1.31 billion from her concerts since 1990. Madonna became one of the five founding members of the UK Music Hall of Fame and was inducted into the Rock and Roll Hall of Fame in her first year of eligibility. She was ranked at number one on VH1's list of 100 Greatest Women in Music and number two (behind only The Beatles) on Billboard\'s list of Greatest Hot 100 Artists of All Time.",
+  "albums": [
+    {
+      "title": "Madonna",
+      "year": 1983,
+      "cover_img": "madonna",
+      "songs": [
+        {
+          "title": "Lucky Star",
+          "length": "5:37"
+        },
+        {
+          "title": "Borderline",
+          "length": "5:18"
+        },
+        {
+          "title": "Burning Up",
+          "length": "3:45"
+        },
+        {
+          "title": "I Know It",
+          "length": "3:47"
+        },
+        {
+          "title": "Holiday",
+          "length": "6:08"
+        },
+        {
+          "title": "Think of Me",
+          "length": "4:54"
+        },
+        {
+          "title": "Physical Attraction",
+          "length": "6:39"
+        },
+        {
+          "title": "Everybody",
+          "length": "5:20"
+        }
+      ],
+      "description": "\n\tMadonna is the eponymous debut studio album by American singer and songwriter Madonna, released on July 27, 1983 by Sire Records. It was renamed Madonna: The First Album for the 1985 international re-release of the album. In 1982, while establishing herself as a singer in Downtown New York, Madonna met Seymour Stein, president of Sire Records, who signed her after listening to her single Everybody. The success of the single prompted Sire to sign her for an album\'s deal. Reggie Lucas was chosen as the primary producer, while Madonna solely wrote five of eight tracks on the album. However, she was not happy with the completed tracks and disagreed with Lucas\'s production techniques. She then invited John Jellybean Benitez to help her finish the album. Benitez remixed many of the tracks and produced Holiday.\n      "
+    },
+    {
+      "title": "Like a Virgin",
+      "year": 1984,
+      "cover_img": "like_a_virgin",
+      "songs": [
+        {
+          "title": "Material Girl",
+          "length": "4:01"
+        },
+        {
+          "title": "Angel",
+          "length": "3:56"
+        },
+        {
+          "title": "Like a Virgin",
+          "length": "3:38"
+        },
+        {
+          "title": "Over and Over",
+          "length": "4:12"
+        },
+        {
+          "title": "Love Don\'t Live Here Anymore",
+          "length": "4:49"
+        },
+        {
+          "title": "Dress You Up",
+          "length": "4:01"
+        },
+        {
+          "title": "Shoo-Bee-Doo",
+          "length": "5:17"
+        },
+        {
+          "title": "Pretender",
+          "length": "4:30"
+        },
+        {
+          "title": "Stay",
+          "length": "4:09"
+        }
+      ],
+      "description": "\n\tLike a Virgin is the second studio album by American singer-songwriter Madonna, released on November 12, 1984, by Sire Records. It was reissued worldwide in 1985, with the inclusion of Into the Groove. In 2001, Warner Bros. Records released a remastered version with two bonus remix tracks. After the release of her self-titled debut album, Madonna wanted to solidify her future in the music business, by building on the success of the first album. She decided to become one of the record producers, but Warner Bros. was not ready to give her the artistic freedom that she wanted. Nile Rodgers was chosen as the primary producer of the album, due to his work with David Bowie.\n      "
+    },
+    {
+      "title": "True Blue",
+      "year": 1986,
+      "cover_img": "true_blue",
+      "songs": [
+        {
+          "title": "Papa Don\'t Preach",
+          "length": "5:02"
+        },
+        {
+          "title": "Open Your Heart",
+          "length": "4:11"
+        },
+        {
+          "title": "White Heat",
+          "length": "3:55"
+        },
+        {
+          "title": "Live to Tell",
+          "length": "4:16"
+        },
+        {
+          "title": "Where\'s the Party?",
+          "length": "4:51"
+        },
+        {
+          "title": "True Blue",
+          "length": "3:49"
+        },
+        {
+          "title": "La Isla Bonita",
+          "length": "3:54"
+        },
+        {
+          "title": "Jimmy Jimmy",
+          "length": "5:02"
+        },
+        {
+          "title": "Love Makes the World Go Round",
+          "length": "3:39"
+        }
+      ],
+      "description": "\n\tTrue Blue is the third studio album by American singer-songwriter Madonna, released on June 30, 1986, by Sire Records. She co-wrote and co-produced the entire album with Stephen Bray and Patrick Leonard. Deemed Madonna\'s most girlish album, True Blue deals with her visions of love, work, dreams as well as disappointments, and was inspired by her then husband Sean Penn, to whom Madonna dedicated the album. Musically, the songs on the album took a different direction from her previous endeavours, incorporating classical music in order to engage an older audience who had been skeptical of her music.\n      "
+    },
+    {
+      "title": "Like a Prayer",
+      "year": 1989,
+      "cover_img": "like_a_prayer",
+      "songs": [
+        {
+          "title": "Like a Prayer",
+          "length": "4:58"
+        },
+        {
+          "title": "Express Yourself",
+          "length": "3:57"
+        },
+        {
+          "title": "Love Song",
+          "length": "3:16"
+        },
+        {
+          "title": "Till Death Do Us Part",
+          "length": "4:29"
+        },
+        {
+          "title": "Promise to Try",
+          "length": "3:27"
+        },
+        {
+          "title": "Cherish",
+          "length": "6:27"
+        },
+        {
+          "title": "Dear Jessie",
+          "length": "1:31"
+        },
+        {
+          "title": "Oh Father",
+          "length": "4:43"
+        },
+        {
+          "title": "Keep it Together",
+          "length": "6:45"
+        },
+        {
+          "title": "Spanish Eyes",
+          "length": "3:32"
+        },
+        {
+          "title": "Act of Contrition",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tLike a Prayer is the fourth studio album by American singer Madonna, released on March 21, 1989 by Sire Records, three years after her previous studio album True Blue. Madonna worked with Stephen Bray, Patrick Leonard, and fellow icon Prince on the album while co-writing and co-producing all the songs. As Madonna\'s most introspective release at the time, Like a Prayer has been described as a confessional record. She described the album as a collection of songs about my mother, my father, and bonds with my family. The album was dedicated to her mother, who died when Madonna was young.\n      "
+    },
+    {
+      "title": "Erotica",
+      "year": 1992,
+      "cover_img": "erotica",
+      "songs": [
+        {
+          "title": "Erotica",
+          "length": "4:58"
+        },
+        {
+          "title": "Fever",
+          "length": "3:57"
+        },
+        {
+          "title": "Bye Bye Baby",
+          "length": "3:16"
+        },
+        {
+          "title": "Deeper and Deeper",
+          "length": "4:29"
+        },
+        {
+          "title": "Where Life Begins",
+          "length": "3:27"
+        },
+        {
+          "title": "Bad Girl",
+          "length": "6:27"
+        },
+        {
+          "title": "Waiting",
+          "length": "1:31"
+        },
+        {
+          "title": "Thief of Hearts",
+          "length": "4:43"
+        },
+        {
+          "title": "Words",
+          "length": "6:45"
+        },
+        {
+          "title": "Raing",
+          "length": "3:32"
+        },
+        {
+          "title": "Why It Is So Hard",
+          "length": "5:45"
+        },
+        {
+          "title": "In This Life",
+          "length": "5:45"
+        },
+        {
+          "title": "Dod You Do It?",
+          "length": "5:45"
+        },
+        {
+          "title": "Secret Garden",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tErotica is the fifth studio album by American singer-songwriter Madonna. It was released on October 20, 1992, by the Maverick and Warner Bros. Records. The album was released simultaneously with Madonna\'s first book publication, Sex, a coffee table book containing explicit photographs featuring the singer. It marked Madonna\'s first release under her own multi-media entertainment company, Maverick. Erotica is a concept album about sex and romance; she incorporated an alter ego named Mistress Dita, inspired by actress Dita Parlo. Some songs also take on a more confessional tone, influenced by the loss of Madonna\'s two close friends to AIDS.\n      "
+    },
+    {
+      "title": "Bedtime Stories",
+      "year": 1994,
+      "cover_img": "bedtime_stories",
+      "songs": [
+        {
+          "title": "Survival",
+          "length": "4:58"
+        },
+        {
+          "title": "Secret",
+          "length": "3:57"
+        },
+        {
+          "title": "I\'d Rather Be Your Lover",
+          "length": "3:16"
+        },
+        {
+          "title": "Don\'t Stop",
+          "length": "4:29"
+        },
+        {
+          "title": "Inside of Me",
+          "length": "3:27"
+        },
+        {
+          "title": "Human Nature",
+          "length": "6:27"
+        },
+        {
+          "title": "Forbidden Love",
+          "length": "1:31"
+        },
+        {
+          "title": "Love Tried to Welcome Me",
+          "length": "4:43"
+        },
+        {
+          "title": "Sanctuary",
+          "length": "6:45"
+        },
+        {
+          "title": "Bedtime Story",
+          "length": "3:32"
+        },
+        {
+          "title": "Take a Bow",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tBedtime Stories is the sixth studio album by American singer Madonna. It was released on October 25, 1994, by Maverick and Warner Bros. Records. Madonna collaborated with Dallas Austin, Babyface, Dave Jam Hall, and Nellee Hooper in order to move into a more mainstream sound. The singer wanted to soften her image following the critical and commercial backlash she faced after releasing sexually explicit projects in the previous two years, notably the Erotica album and the book Sex in 1992. The success of the soundtrack single I\'ll Remember in 1994 marked the beginning of this transformation and Madonna used Bedtime Stories to continue it.\n      "
+    },
+    {
+      "title": "Ray of Light",
+      "year": 1998,
+      "cover_img": "ray_of_light",
+      "songs": [
+        {
+          "title": "Drowned World",
+          "length": "4:58"
+        },
+        {
+          "title": "Swim",
+          "length": "3:57"
+        },
+        {
+          "title": "Ray of Light",
+          "length": "3:16"
+        },
+        {
+          "title": "Candy Perfume Girl",
+          "length": "4:29"
+        },
+        {
+          "title": "Skin",
+          "length": "3:27"
+        },
+        {
+          "title": "Nothing Really Matters",
+          "length": "6:27"
+        },
+        {
+          "title": "Sky Fits Heaven",
+          "length": "1:31"
+        },
+        {
+          "title": "Shanti\/Ashtangi",
+          "length": "4:43"
+        },
+        {
+          "title": "Frozen",
+          "length": "6:45"
+        },
+        {
+          "title": "The Power of Good Bye",
+          "length": "3:32"
+        },
+        {
+          "title": "To have and Not to Hold",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tRay of Light is the seventh studio album by American singer Madonna. It was released on February 22, 1998 by the Maverick and Warner Bros. Records. After giving birth to her first child, Lourdes, Madonna started working on the album with producers Babyface and Patrick Leonard. Following failed sessions with them, Madonna pursued a new musical direction with English producer William Orbit. The recording took place over four months and experienced problems with Orbit\'s hardware Pro Tools arrangement, which would break down, and recording would have to be delayed until they could be repaired.\n      "
+    },
+    {
+      "title": "Music",
+      "year": 2000,
+      "cover_img" : "music",
+      "songs": [
+        {
+          "title": "Music",
+          "length": "4:58"
+        },
+        {
+          "title": "Impressive Instant",
+          "length": "3:57"
+        },
+        {
+          "title": "Runaway Lover",
+          "length": "3:16"
+        },
+        {
+          "title": "I Deserve It",
+          "length": "4:29"
+        },
+        {
+          "title": "Amazing",
+          "length": "3:27"
+        },
+        {
+          "title": "Nobody\'s Perfect",
+          "length": "6:27"
+        },
+        {
+          "title": "Don\'t Tell Me",
+          "length": "1:31"
+        },
+        {
+          "title": "What It Feels Like for a Girl",
+          "length": "4:43"
+        },
+        {
+          "title": "Paradise",
+          "length": "6:45"
+        },
+        {
+          "title": "Gone",
+          "length": "3:32"
+        }
+      ],
+      "description": "\n\tMusic is the eighth studio album by American singer Madonna, released on September 18, 2000 by Maverick and Warner Bros. Records. Following the success of her previous album Ray of Light (1998), she intended to embark on a tour. However, her record company encouraged her to return to the studio and record new music before going on the road. Her collaboration with producers Mirwais Ahmadzaï and William Orbit resulted a more experimental direction for the album. Music has an overall dance-pop and electronica vibe, with influnces from rock, country and folk. The album was mostly recorded at Sarm West and East Studios in London, England. Elaborating country theme for the album, Madonna reinvented her image as a cowgirl.\n      "
+    },
+    {
+      "title": "American Life",
+      "year": 2003,
+      "cover_img": "american_life",
+      "songs": [
+        {
+          "title": "American Life",
+          "length": "4:58"
+        },
+        {
+          "title": "Hollywood",
+          "length": "3:57"
+        },
+        {
+          "title": "I\'m So Stupid",
+          "length": "3:57"
+        },
+        {
+          "title": "Love Profusion",
+          "length": "4:29"
+        },
+        {
+          "title": "Nobody Knows Me",
+          "length": "3:27"
+        },
+        {
+          "title": "Nothing Falls",
+          "length": "6:27"
+        },
+        {
+          "title": "Intervention",
+          "length": "1:31"
+        },
+        {
+          "title": "X Static Process",
+          "length": "4:43"
+        },
+        {
+          "title": "Mother and Father",
+          "length": "6:45"
+        },
+        {
+          "title": "Die Another Day",
+          "length": "3:32"
+        },
+        {
+          "title": "Easy Ride",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tAmerican Life is the ninth studio album by American singer-songwriter Madonna. It was first released on April 21, 2003, by Maverick Records and Warner Bros. Records. The album, produced in its entirety by Madonna and Mirwais Ahmadzaï, features references to many parts of American culture. The album is a concept album, with recurring themes of the American Dream and materialism. These themes reject the reputation Madonna held in the 1980s, earned by songs such as her worldwide hit Material Girl (1985). The album contains rock, folk and electronica music, as well as influences of acoustic music on many tracks.\n      "
+    },
+    {
+      "title": "Confessions on a Dance Floor",
+      "year": 2005,
+      "cover_img": "confession_on_a_dancefloor",
+      "songs": [
+        {
+          "title": "Hung Up",
+          "length": "4:58"
+        },
+        {
+          "title": "Get Together",
+          "length": "3:57"
+        },
+        {
+          "title": "Sorry",
+          "length": "3:16"
+        },
+        {
+          "title": "Future Lovers",
+          "length": "4:29"
+        },
+        {
+          "title": "I Love New York",
+          "length": "3:27"
+        },
+        {
+          "title": "Let It Will Be",
+          "length": "6:27"
+        },
+        {
+          "title": "Forbidden Love",
+          "length": "1:31"
+        },
+        {
+          "title": "Jump",
+          "length": "4:43"
+        },
+        {
+          "title": "How High",
+          "length": "6:45"
+        },
+        {
+          "title": "Isaac",
+          "length": "3:32"
+        },
+        {
+          "title": "Push",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tConfessions on a Dance Floor is the tenth studio album by American singer-songwriter Madonna. It was released on November 11, 2005 by Warner Bros. Records. A complete departure from her previous studio album American Life (2003), the album includes influences of 1970s and 1980s disco, as well as modern-day club music. Initially, she began working with Mirwais Ahmadzaï for the album, but later felt that their collaboration was not going in the direction she desired. Madonna took her collaboration with Stuart Price who was overviewing her documentary I'm Going to Tell You a Secret. The album was mainly recorded at Price's home-studio where Madonna spent most of her time during the recordings.\n      "
+    },
+    {
+      "title": "Hard Candy",
+      "year": 2008,
+      "cover_img": "hard_candy",
+      "songs": [
+        {
+          "title": "Candy Shop",
+          "length": "4:58"
+        },
+        {
+          "title": "4 Minutes",
+          "length": "3:57"
+        },
+        {
+          "title": "Give It 2 Me",
+          "length": "3:16"
+        },
+        {
+          "title": "Heartbeat",
+          "length": "4:29"
+        },
+        {
+          "title": "Miles Away",
+          "length": "3:27"
+        },
+        {
+          "title": "She\'s Not Me",
+          "length": "6:27"
+        },
+        {
+          "title": "Incredible",
+          "length": "1:31"
+        },
+        {
+          "title": "Beat Goes On",
+          "length": "4:43"
+        },
+        {
+          "title": "Dance 2Night",
+          "length": "6:45"
+        },
+        {
+          "title": "Spanish Lesson",
+          "length": "3:32"
+        },
+        {
+          "title": "Voices",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tHard Candy is the eleventh studio album by American singer-songwriter Madonna. It was released on April 19, 2008, by Warner Bros. Records. The album was her final studio album with the record company, marking the end of a 25-year recording history.[1] Madonna started working on the album in early 2007, and collaborated with Justin Timberlake, Timbaland, The Neptunes and Nate Danja Hills. The album has an overall R&B vibe, while remaining a dance-pop record at its core. The Pet Shop Boys were also asked to collaborate with Madonna on the album by Warner Bros., but the record company later changed their mind and withdrew their invitation.\n      "
+    },
+    {
+      "title": "MDNA",
+      "year": 2012,
+      "cover_img": "mdna",
+      "songs": [
+        {
+          "title": "Girl Gone Wild",
+          "length": "4:58"
+        },
+        {
+          "title": "Gang Bang",
+          "length": "3:57"
+        },
+        {
+          "title": "I\'m Addicted",
+          "length": "3:16"
+        },
+        {
+          "title": "Turn Up The Radio",
+          "length": "4:29"
+        },
+        {
+          "title": "Gib Me All Your Luvin",
+          "length": "3:27"
+        },
+        {
+          "title": "Some Girls",
+          "length": "6:27"
+        },
+        {
+          "title": "Superstar",
+          "length": "1:31"
+        },
+        {
+          "title": "I Don\'t Give A",
+          "length": "4:43"
+        },
+        {
+          "title": "Love Spent",
+          "length": "6:45"
+        },
+        {
+          "title": "Masterpiece",
+          "length": "3:32"
+        },
+        {
+          "title": "Falling Free",
+          "length": "5:45"
+        }
+      ],
+      "description": "\n\tMDNA is the twelfth studio album by American singer-songwriter Madonna. It was released on March 23, 2012, by Interscope Records. It is also Madonna's first album not to be associated with Warner Bros. Records, the label she was signed to since 1982. As well as Madonna producing the album she worked with a variety of producers such as Alle Benassi, Benny Benassi, Demolition Crew, Free School, Michael Malih, Indiigo, William Orbit and Martin Solveig. MDNA lyrically explores themes such as partying, the drug MDMA, love for music, infatuation, heartbreak, revenge and separation.\n      "
+    }
+  ]
+}
+
+

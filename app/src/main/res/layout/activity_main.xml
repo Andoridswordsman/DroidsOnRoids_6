@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_light"
+    android:fitsSystemWindows="true"
+    tools:context=".screens.screen_main.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/main_activity_appbarlayout"
+        app:expanded="true"
+        android:fitsSystemWindows="true"
+        android:id="@+id/appBarLayout">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            app:collapsedTitleGravity="center_vertical"
+            android:fitsSystemWindows="true"
+            android:id="@+id/collapsingToolbarLayout"
+            app:collapsedTitleTextAppearance="@style/CollapsedTitleTextAppearance"
+            app:expandedTitleMarginStart="@dimen/main_activity_ctl_margin_start"
+            app:expandedTitleTextAppearance="@style/ExpandedTitleTextAppearance"
+            app:layout_scrollFlags="exitUntilCollapsed|scroll">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/main_activity_header_background"
+                app:layout_collapseMode="parallax"
+                app:layout_collapseParallaxMultiplier="0.7"
+                android:scaleType="centerCrop"
+                android:contentDescription="@string/madonnaheaderimage" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:baselineAligned="false"
+                app:layout_collapseMode="pin"
+                android:layout_gravity="center"
+                android:id="@+id/headerLinearLayout">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:layout_weight=".5"
+                    android:layout_marginStart="@dimen/headerLinearLayoutMargin"
+                    android:layout_marginTop="@dimen/headerLinearLayoutMargin"
+                    android:layout_marginBottom="@dimen/headerLinearLayoutMargin">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/firstnameTextView"
+                        android:layout_weight=".5"
+                        android:textAppearance="@style/CollapsedTitleTextAppearance" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/lastnameTextView"
+                        android:layout_weight=".5"
+                        android:textAppearance="@style/CollapsedTitleTextAppearance" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:layout_weight=".5"
+                    android:layout_marginEnd="@dimen/headerLinearLayoutMargin"
+                    android:layout_marginTop="@dimen/headerLinearLayoutMargin"
+                    android:layout_marginBottom="@dimen/headerLinearLayoutMargin">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/birthPlaceTextView"
+                        android:layout_weight=".5"
+                        android:textAppearance="@style/CollapsedTitleTextAppearance"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/ageTextView"
+                        android:layout_weight=".5"
+                        android:textAppearance="@style/CollapsedTitleTextAppearance"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <android.support.v7.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+            </android.support.v7.widget.Toolbar>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.droidsonroids.materialmusicfacts.views.HeaderLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    app:title="@string/headerTitle"
+                    app:subtitle="@string/headerSubtitle"
+                    app:backgroundDrawable="@drawable/round_album">
+                </com.droidsonroids.materialmusicfacts.views.HeaderLayout>
+
+                <android.support.v7.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/albumsRecyclerView">
+
+                </android.support.v7.widget.RecyclerView>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+    </android.support.v4.widget.NestedScrollView>
+
+    <com.droidsonroids.materialmusicfacts.views.behavior.MyFloatingActionButton
+        app:fabSize="normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:clickable="true"
+        android:focusable="true"
+        app:direction="right"
+        app:layout_behavior="com.droidsonroids.materialmusicfacts.views.behavior.ShowHideFabOnScroll"
+        android:src="@drawable/ic_play_arrow_white_24dp"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:layout_marginEnd="@dimen/fab_margin"/>
+
+</android.support.design.widget.CoordinatorLayout>

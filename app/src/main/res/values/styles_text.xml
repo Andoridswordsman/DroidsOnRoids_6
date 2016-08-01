@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RobotoThinText" parent="android:TextAppearance">
+        <item name="fontPath">fonts/Roboto-Thin.ttf</item>
+    </style>
+
+    <style name="RobotoLightText" parent="android:TextAppearance">
+        <item name="fontPath">fonts/Roboto-Light.ttf</item>
+    </style>
+
+    <style name="RobotoMediumText" parent="android:TextAppearance">
+        <item name="fontPath">fonts/Roboto-Medium.ttf</item>
+    </style>
+
+    <style name="RobotoRegularText" parent="android:TextAppearance">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="RobotoBoldText" parent="android:TextAppearance">
+        <item name="fontPath">fonts/Roboto-Bold.ttf</item>
+    </style>
+
+    <style name="CollapsedTitleTextAppearance" parent="RobotoRegularText">
+        <item name="android:textColor">@color/collapsed_title_color</item>
+        <item name="android:textSize">@dimen/textsize_collapsed_title</item>
+    </style>
+
+    <style name="ExpandedTitleTextAppearance" parent="RobotoRegularText">
+        <item name="android:textColor">@color/expanded_title_color</item>
+        <item name="android:textSize">@dimen/textsize_expanded_title</item>
+    </style>
+
+    <style name="CardViewTitleTextAppearance" parent="RobotoRegularText">
+        <item name="android:layout_margin">@dimen/default_layout_margin_halved</item>
+        <item name="android:textSize">@dimen/textsize_cardview_title</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="CardViewActionAppearance" parent="RobotoMediumText">
+        <item name="android:textSize">@dimen/textsize_cardview_text</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="DefaultTextView" parent="RobotoLightText">
+        <item name="android:textSize">@dimen/textsize_cardview_text</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+</resources>

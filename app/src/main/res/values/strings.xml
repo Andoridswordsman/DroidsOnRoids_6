@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bitch, I\'m Madonna</string>
+    <string name="music_api_key">290d56f6472d59a533f1b3743565b547</string>
+    <string name="transition_splash_screen">transitionSplashScreen</string>
+    <string name="transition_imageview_album">transitionImageViewAlbum</string>
+    <string name="albums">Albums</string>
+    <string name="albums_desc">1983 ~ 2012</string>
+    <string name="biography">Biography</string>
+    <string name="biography_desc">Basic facts about Madonna</string>
+    <string name="read_more">READ MORE</string>
+    <string name="songs_description">Songs from the whole album</string>
+    <string name="songs">Songs</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="madonnaheaderimage">madonnaHeaderImage</string>
+    <string name="headerTitle">Albums</string>
+    <string name="headerSubtitle">Albums from 1985 to 2015</string>
+</resources>
